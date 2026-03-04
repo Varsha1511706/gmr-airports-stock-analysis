@@ -6,7 +6,7 @@ An advanced AI-powered stock analysis and prediction platform focused on **GMR A
 
 Built as a **production-grade portfolio project** that combines classical technical analysis with modern neural intelligence to deliver clear, confident trading signals.
 
-![Volatility Heatmap](https://github.com/yourusername/gmr-airports-stock-analysis/blob/main/images/volatility_heatmap.png)
+![Volatility Heatmap](https://github.com/Varsha1511706/gmr-airports-stock-analysis/blob/main/images/volatility_heatmap.png)
 
 ---
 
